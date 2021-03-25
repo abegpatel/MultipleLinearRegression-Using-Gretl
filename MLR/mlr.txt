@@ -1,0 +1,8 @@
+P12-50-Startups.csv
+
+One or more non-numeric variables were found.
+These variables have been given numeric codes as follows.
+
+String code table for variable 4 (State):
+  1 = 'New York'
+  2 = 'California'
